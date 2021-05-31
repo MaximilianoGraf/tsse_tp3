@@ -4,9 +4,6 @@
  * Se puede consultar el estado de un LED apagado.
  * Se puede consultar el estado de un LED 
  * Revisar limites de los parametros.
-
- * Revisar parametros fuera de los límites
- * Revisar que se haya llamado primero a la función
  */
 #include "unity.h"
 #include "leds.h"
